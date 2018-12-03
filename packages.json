@@ -2183,5 +2183,14 @@
     ],
     "repo": "https://github.com/jmackie/purescript-datetime-iso.git",
     "version": "v2.0.0"
+  },
+  "halogen-day-picker": {
+    "dependencies": [
+      "halogen",
+      "datetime"
+      "generics-rep"
+    ],
+    "repo": "https://github.com/rnons/purescript-halogen-day-picker.git",
+    "version": "v0.4.0"
   }
 }
