@@ -2192,5 +2192,18 @@
     ],
     "repo": "https://github.com/rnons/purescript-halogen-day-picker.git",
     "version": "v0.4.0"
+  },
+  "format": {
+    "dependencies": [
+      "arrays",
+      "effect",
+      "integers",
+      "math",
+      "prelude",
+      "strings",
+      "unfoldable"
+    ],
+    "repo": "https://github.com/sharkdp/purescript-format.git",
+    "version": "v4.0.0"
   }
 }
