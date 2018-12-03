@@ -2187,7 +2187,7 @@
   "halogen-day-picker": {
     "dependencies": [
       "halogen",
-      "datetime"
+      "datetime",
       "generics-rep"
     ],
     "repo": "https://github.com/rnons/purescript-halogen-day-picker.git",
