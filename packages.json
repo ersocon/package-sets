@@ -2172,5 +2172,16 @@
     ],
     "repo": "https://github.com/ersocon/purescript-halogen-bulma.git",
     "version": "v1.0.2"
+  },
+  "datetime-iso": {
+    "dependencies": [
+      "prelude",
+      "argonaut-codecs",
+      "datetime",
+      "parsing",
+      "newtype"
+    ],
+    "repo": "https://github.com/jmackie/purescript-datetime-iso.git",
+    "version": "v2.0.0"
   }
 }
