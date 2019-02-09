@@ -2171,7 +2171,7 @@
       "halogen"
     ],
     "repo": "https://github.com/ersocon/purescript-halogen-bulma.git",
-    "version": "v1.0.2"
+    "version": "v1.0.3"
   },
   "datetime-iso": {
     "dependencies": [
