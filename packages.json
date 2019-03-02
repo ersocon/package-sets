@@ -47,7 +47,7 @@
       "web-xhr"
     ],
     "repo": "https://github.com/slamdata/purescript-affjax.git",
-    "version": "v7.0.0"
+    "version": "v8.0.0"
   },
   "ansi": {
     "dependencies": [
@@ -65,7 +65,7 @@
       "argonaut-traversals"
     ],
     "repo": "https://github.com/purescript-contrib/purescript-argonaut.git",
-    "version": "v4.0.1"
+    "version": "v5.0.0"
   },
   "argonaut-codecs": {
     "dependencies": [
@@ -77,7 +77,7 @@
       "record"
     ],
     "repo": "https://github.com/purescript-contrib/purescript-argonaut-codecs.git",
-    "version": "v5.0.0"
+    "version": "v5.1.2"
   },
   "argonaut-core": {
     "dependencies": [
@@ -113,7 +113,7 @@
       "profunctor-lenses"
     ],
     "repo": "https://github.com/purescript-contrib/purescript-argonaut-traversals.git",
-    "version": "v5.0.0"
+    "version": "v6.0.0"
   },
   "arraybuffer": {
     "dependencies": [
@@ -372,7 +372,7 @@
       "web-touchevents"
     ],
     "repo": "https://github.com/slamdata/purescript-dom-indexed.git",
-    "version": "v6.0.0"
+    "version": "v7.0.0"
   },
   "effect": {
     "dependencies": [
@@ -720,7 +720,7 @@
       "web-uievents"
     ],
     "repo": "https://github.com/slamdata/purescript-halogen.git",
-    "version": "v4.0.0"
+    "version": "v5.0.0-rc.2"
   },
   "halogen-bootstrap": {
     "dependencies": [
@@ -786,7 +786,7 @@
       "web-html"
     ],
     "repo": "https://github.com/slamdata/purescript-halogen-vdom.git",
-    "version": "v3.0.0"
+    "version": "v5.1.0"
   },
   "hedwig": {
     "dependencies": [
@@ -2098,7 +2098,7 @@
       "web-file"
     ],
     "repo": "https://github.com/purescript-web/purescript-web-socket.git",
-    "version": "v1.0.0"
+    "version": "v2.0.0"
   },
   "web-storage": {
     "dependencies": [
@@ -2120,7 +2120,7 @@
       "web-html"
     ],
     "repo": "https://github.com/purescript-web/purescript-web-uievents.git",
-    "version": "v1.0.0"
+    "version": "v2.0.0"
   },
   "web-xhr": {
     "dependencies": [
